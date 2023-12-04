@@ -15,6 +15,6 @@ about:
       href: https://github.com/filipemendo
 ---
 
-Hi! My name is Filipe Paccetti, and I work as a senior quant in the financial sector. Besides having an interest in several quantitative fields ranging from complex differential geometry to deep learning, I am a kin reader on history and linguistics.
+Hi! My name is Filipe Paccetti, and I work as a senior quant in the financial sector. Besides having an interest in several quantitative fields ranging from complex differential geometry to deep learning, I am a keen reader on history and linguistics.
 
 I hold a PhD in theoretical physics, having worked as a researcher in mathematical physics before joining the financial sector.
