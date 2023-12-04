@@ -1,0 +1,11 @@
+---
+title: "Compression is all there is"
+author: "F. Paccetti"
+date: "2023-12-04"
+categories: [ai,llm,compression]
+image: "Transformer.webp"
+---
+
+\[This post is under construction\]
+
+There has been a spurt of studies supporting the idea that deep network architectures such as the *transformer* are ingenious ways of compressing large volumes of unstructured data.

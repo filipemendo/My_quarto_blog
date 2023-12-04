@@ -1,0 +1,21 @@
+---
+title: "My first post with equations and code"
+author: "F. Paccetti"
+date: "2023-12-03"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with equations and code. An *ancient* way of estimating the value of $\pi$ is to estimate the area $A$ of a circle using some numerical method and then divide $A$ by the diameter $d$.
+
+```{r}
+
+n = 1000 # sample size
+
+x = runif(n)
+y = runif(n)
+r2 = x^2+y^2
+A_4 = sum(r2<=1)/n
+
+print(paste0('A simulation of size ',n,' leads to an estimated pi of ',4*A_4))
+```

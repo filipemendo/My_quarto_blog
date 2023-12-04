@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Filipe Paccetti",
+    "section": "",
+    "text": "Compression is all there is\n\n\n\n\n\n\n\nai\n\n\nllm\n\n\ncompression\n\n\n\n\n\n\n\n\n\n\n\nDec 4, 2023\n\n\nF. Paccetti\n\n\n\n\n\n\n  \n\n\n\n\nMy first post with equations and code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 3, 2023\n\n\nF. Paccetti\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 3, 2023\n\n\nF. Paccetti\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "My first post with equations and code",
+    "section": "",
+    "text": "This is a post with equations and code. An ancient way of estimating the value of \\(\\pi\\) is to estimate the area \\(A\\) of a circle using some numerical method and then divide \\(A\\) by the diameter \\(d\\).\n\nn = 1000 # sample size\n\nx = runif(n)\ny = runif(n)\nr2 = x^2+y^2\nA_4 = sum(r2&lt;=1)/n\n\nprint(paste0('A simulation of size ',n,' leads to an estimated pi of ',4*A_4))\n\n[1] \"A simulation of size 1000 leads to an estimated pi of 3.112\""
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/compression_LLM/index.html",
+    "href": "posts/compression_LLM/index.html",
+    "title": "Compression is all there is",
+    "section": "",
+    "text": "[This post is under construction]\nThere has been a spurt of studies supporting the idea that deep network architectures such as the transformer are ingenious ways of compressing large volumes of unstructured data."
+  }
+]
